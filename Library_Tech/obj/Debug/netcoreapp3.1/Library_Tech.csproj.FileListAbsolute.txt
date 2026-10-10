@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.FORMS.Dashboard_Form.resources
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.FORMS.Login_form.resources
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.Properties.Resources.resources
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.AssemblyInfo.cs
+C:\Users\user\source\repos\Library_Tech\Library_Tech\obj\Debug\netcoreapp3.1\Library_Tech.csproj.CoreCompileInputs.cache

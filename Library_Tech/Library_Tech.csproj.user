@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\AuthorsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\AuthorsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\BookInfoCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\BookList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\BooklistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\BooksBySelectedGenre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\Dashboard_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\genreList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\Login_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\ManageAuthorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\ManageBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\ManageCirculationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\ManageGenresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\ManageStudentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\RemoveBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\StudentInfoCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORMS\TermsAndConditionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
